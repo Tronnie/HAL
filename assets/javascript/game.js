@@ -4,7 +4,7 @@
   var wins = 0;
   var losses = 0;
   var guesses = [];
-  var chances = 5;
+  var chances = 0; //don't know how to get this to work
 
 
   document.onkeyup = function(event) {
@@ -30,7 +30,7 @@
     if(player !== computer){
       losses+=1;
       guesses+=player;
-      (--chances);
+      chances;
     }
 
     var html =
@@ -39,7 +39,7 @@
       "<p> I chose: " + computer + "</p>"
       +
       "<p> Guesses:" + guesses + "</p>"+
-      "<p> Plays left:"+ chances +"</p>" +
+      "<p> Plays left:"+ --chances +"</p>" +
       "<p> Wins: " + wins + "</p>"
       +
       "<p> Losses: " + losses + "</p>"
