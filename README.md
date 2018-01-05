@@ -1,4 +1,12 @@
 # HAL
-An application designed with Javascript, HTML and CSS where human and machine duke it out.  `Math.random` makes this an exciting game of chance.  Can you guess what letter HAL, the computer is 'thinking'?
+Can you guess what random number HAL, the computer, is guessing?
 
-![HAL](./images/HAL.png)
+### Getting Started
+* Check out the link: https://tronnie.github.io/HAL/
+* Press a any key.
+
+![HAL](.assets./images/HAL.png)
+
+**Thank you for your Attention!**
+
+Gail Izaguirre (C) 2017.  All Rights Reserved.
