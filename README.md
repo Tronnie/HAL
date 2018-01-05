@@ -5,7 +5,7 @@ Can you guess what random number HAL, the computer, is guessing?
 * Check out the link: https://tronnie.github.io/HAL/
 * Press a any key.
 
-![HAL](.assets./images/HAL.png)
+![HAL](./assets./images/HAL.png)
 
 **Thank you for your Attention!**
 
